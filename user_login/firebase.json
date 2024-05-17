@@ -1,0 +1,16 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "name": "userLoginFunctions"
+    }
+  ],
+  "ignore": [
+    "**/node_modules/**",
+    "**/firebase-debug.log",
+    "**/firebase-debug.*.log"
+  ],
+  "timeoutSeconds": 540
+}
+
+  
